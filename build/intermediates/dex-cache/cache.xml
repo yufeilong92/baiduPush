@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\new_demo\Demo\app\libs\pushservice-5.6.0.30.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d008d89d05a62f6c3d381fbc56c51d921fab4d76">
+        <dex dex="D:\new_demo\Demo\app\build\intermediates\pre-dexed\debug\pushservice-5.6.0.30_3545cfcb3d5e77bb18852af151529fb69969f56f.jar" />
+    </item>
+
+</items>

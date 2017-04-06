@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\new_demo\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bpush_message_prompt.png",
+        "source": "D:\\new_demo\\Demo\\app\\src\\main\\res\\drawable-hdpi\\bpush_message_prompt.png"
+    },
+    {
+        "merged": "D:\\new_demo\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bpush_list_item_bg.9.png",
+        "source": "D:\\new_demo\\Demo\\app\\src\\main\\res\\drawable-hdpi\\bpush_list_item_bg.9.png"
+    },
+    {
+        "merged": "D:\\new_demo\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bpush_lapp_notification_status_icon.png",
+        "source": "D:\\new_demo\\Demo\\app\\src\\main\\res\\drawable-hdpi\\bpush_lapp_notification_status_icon.png"
+    },
+    {
+        "merged": "D:\\new_demo\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\simple_notification_icon.png",
+        "source": "D:\\new_demo\\Demo\\app\\src\\main\\res\\drawable-hdpi\\simple_notification_icon.png"
+    },
+    {
+        "merged": "D:\\new_demo\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\new_demo\\Demo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\new_demo\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bpush_return_btn.png",
+        "source": "D:\\new_demo\\Demo\\app\\src\\main\\res\\drawable-hdpi\\bpush_return_btn.png"
+    },
+    {
+        "merged": "D:\\new_demo\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bpush_top_bg.9.png",
+        "source": "D:\\new_demo\\Demo\\app\\src\\main\\res\\drawable-hdpi\\bpush_top_bg.9.png"
+    }
+]
